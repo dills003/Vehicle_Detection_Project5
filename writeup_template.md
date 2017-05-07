@@ -1,6 +1,6 @@
 ## **Vehicle Detection Project**
 
-Once again, without all of the lectures and quizes in this module, I would not have stood a chance. I used a couple of different files to complete this project. I used the notebook titled, "P5test.ipynb" to do my initial work and picture grabbing and a second titled, "P5Video.ipynb" to create my video output file named, "myVideo_finalt1RBF.mp4". 
+Once again, without all of the lectures and quizes in this module, I would not have stood a chance to get as far as I did. I used a couple of different files to complete this project. I used the notebook titled, "P5test.ipynb" to do my initial work and picture grabbing and a second titled, "P5Video.ipynb" to create my video output file named, "myVideo_finalt1RBF.mp4". 
 
 The goals / steps of this project are the following:
 
